@@ -2,6 +2,7 @@
 
 #### Requirements: 
 - Ensure ```node``` is installed
+- Ensure mongoDB is installed and the mongo daemon is running:  ``` $ brew install mongodb && mongod ```
 
 #### Setup
 - Clone the repo by running: ```git clone https://github.com/victoriaaoka/qa-app-rest-api.git```
